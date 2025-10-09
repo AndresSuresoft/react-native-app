@@ -1,10 +1,10 @@
-import { SafeAreaProvider,useSafeAreaInsets,} from 'react-native-safe-area-context';
-import Home from './src/screens/Home';
+import { SafeAreaProvider, useSafeAreaInsets, } from 'react-native-safe-area-context';
+import Home from './src/screens/Home/Home'
 
 function App() {
   return (
     <SafeAreaProvider>
-      <Home/>
+      <Home />
     </SafeAreaProvider>
   );
 }

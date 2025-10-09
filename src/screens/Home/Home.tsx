@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet } from "react-native"
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import styles from './Styles'
+import styles from '../Home/Styles'
 
 const Home = () => {
   const insets = useSafeAreaInsets()
