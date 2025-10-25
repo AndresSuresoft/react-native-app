@@ -8,6 +8,9 @@
 <p>A mobile app developed with React Native and TypeScript that lets you browse, search, and save your favorite movies using The Movie Database (TMDb) API.
 It includes tabbed navigation, color themes, and reusable components with an architecture based on atomic design.</p>
 
+<h1>Demo App</h1>
+<p>👉 <a href="https://drive.google.com/file/d/1_Y7ULOhOcdYihcnisn6O9wQy2nWyp-ow/view" target="_blank" rel="noopener noreferrer">Demo Team</a></p>
+
 <h1>Design Reference</h1> 
 <p>The interface design was inspired by this Figma project:</p>
 <p>👉 <a href="https://www.figma.com/community/file/1126286295256197533" target="_blank" rel="noopener noreferrer">Figma – Movie App UI Kit</a></p>
