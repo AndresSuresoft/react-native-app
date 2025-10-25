@@ -1,1 +1,5 @@
-# react-native-course
+![Static Badge](https://img.shields.io/badge/ReactNative-blue)
+![Static Badge](https://img.shields.io/badge/VisualStudioCode-blue)
+![Static Badge](https://img.shields.io/badge/TypeScript-lightblue)
+![Static Badge](https://img.shields.io/badge/Css-orange)
+![Static Badge](https://img.shields.io/badge/Node-green)
